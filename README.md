@@ -39,3 +39,11 @@ To install Pygame, run:
 ```bash
 pip install pygame
 ```
+
+#Quick install 
+1. git clone https://github.com/sebtosca/Gaming.git
+2. cd your-repository
+3. python ping_pong.py
+
+
+
